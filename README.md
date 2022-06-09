@@ -7,9 +7,9 @@
 * Great with mathemtics and hence algorithms.
 
 #### Let's connect
-![Elisha](https://img.shields.io/badge/-Elisha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisha-tetteyfio/)
+[![Elisha](https://img.shields.io/badge/-Elisha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisha-tetteyfio/)](https://www.linkedin.com/in/elisha-tetteyfio)
 
-![Gmail](https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com/) : tetteyfioelisha@gmail.com
+[![Elisha](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Nii_AlYasa)](https://twitter.com/Nii_AlYasa)
 
 
 #### Languages & Frameworks
