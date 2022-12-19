@@ -1,10 +1,13 @@
-### Hola, I'm Elisha 👋
-> _I am a full-stack developer and a mathematician too_ 😅
+## Hola, I'm Elisha 👋
+> _I am a full-stack developer with experience using Ruby on Rails, React & Redux, CSS and bootstrap. I love programming and mathematics too._ 😅
 
 #### About ...
-* Front-end developer open to any remote offer.
-* Currently studying back-end.
+* Full-stack developer open to any remote offer.
 * Great with mathemtics and hence algorithms.
+
+#### Ask me about 
+* Questions related to Rails
+* Abstract algebra
 
 #### Let's connect
 [![Elisha](https://img.shields.io/badge/-Elisha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisha-tetteyfio/)](https://www.linkedin.com/in/elisha-tetteyfio)
@@ -17,6 +20,8 @@
 ![JS](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css3)
 ![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap)
+![](https://img.shields.io/badge/Rails-gray?logo=rubyonrails&logoColor=red)
+![](https://img.shields.io/badge/Ruby-gray?logo=ruby&logoColor=red)
 
 <!--
 **Elisha-Tetteyfio/Elisha-Tetteyfio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
