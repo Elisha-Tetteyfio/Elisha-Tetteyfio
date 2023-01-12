@@ -16,12 +16,16 @@
 
 
 #### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=Python)
 ![JS](https://img.shields.io/badge/-JavaScript-gray?style=flat&logo=javascript)
-![](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css3)
-![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap)
+![](https://img.shields.io/badge/-React-gray?style=flat&logo=React)
+![](https://img.shields.io/badge/-Redux-gray?style=flat&logo=Redux)
 ![](https://img.shields.io/badge/Rails-gray?logo=rubyonrails&logoColor=red)
 ![](https://img.shields.io/badge/Ruby-gray?logo=ruby&logoColor=red)
+![](https://img.shields.io/badge/-CSS-gray?style=flat&logo=css3)
+![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=Python)
+![](https://img.shields.io/badge/PostgreSQL-gray?style=flat&logo=postgresql)
+
 
 <!--
 **Elisha-Tetteyfio/Elisha-Tetteyfio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
