@@ -25,6 +25,7 @@
 ![](https://img.shields.io/badge/-Bootstrap-gray?style=flat&logo=bootstrap)
 ![Python](https://img.shields.io/badge/-Python-gray?style=flat&logo=Python)
 ![](https://img.shields.io/badge/PostgreSQL-gray?style=flat&logo=postgresql)
+![](https://img.shields.io/badge/HTML5-gray?style=flat&logo=html5)
 
 
 <!--
