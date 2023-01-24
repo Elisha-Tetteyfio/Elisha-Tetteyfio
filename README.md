@@ -1,9 +1,10 @@
-## Hola, I'm Elisha 👋
-> _I am a full-stack developer with experience using Ruby on Rails, React & Redux, CSS and bootstrap. I love programming and mathematics too._ 😅
+# Heyy there, I'm Elisha !!! 👋
+> _I love computer programming and mathematics and complex problems. I promise I'm not a geek._ 😅
 
 #### About ...
 * Full-stack developer open to any remote offer.
 * Great with mathemtics and hence algorithms.
+* Data analysis and database management.
 
 #### Ask me about 
 * Questions related to Rails
